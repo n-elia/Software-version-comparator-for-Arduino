@@ -1,5 +1,5 @@
 # Very simple software version comparator for Arduino
-This is a simple sketch to compoare software version numbers.
+This is a simple sketch to compare software version numbers.
 Tested on Arduino Nano 33 IoT.
  
 ## Usage
