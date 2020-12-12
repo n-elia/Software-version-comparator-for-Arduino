@@ -52,7 +52,8 @@ short versionCompare(char v1[], char v2[]) {
 
      Returns 0 if v1 > v2
      Returns 1 if v2 > v1
-     Returns 2 if v1 = v2          */
+     Returns 2 if v1 = v2
+     Returns 3 in case of errors            */
 
   if ((strlen(v1) > 30) | (strlen(v2) > 30))
   {
